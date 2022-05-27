@@ -25,9 +25,9 @@ This data set includes information regarding the sales of products across Big Ma
 
 
 #### Predictions using scatter plot
-![Scatter plot.png]
+![sampleimage](https://github.com/Acottle1031/Sales-Predictions-Project/blob/main/Scatter%20plot.png?raw=true)]
 
-> Sentence about visualization.
+This visual shows us the majority of our predictions and where they fall listed in $
 
 #### Visual 2 Title
 
