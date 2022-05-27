@@ -21,21 +21,25 @@ This data set includes information regarding the sales of products across Big Ma
 
 ## Results
 
-### Here are examples of how to embed images from your sub-folder
-
-
 #### Predictions using scatter plot
 ![sampleimage](https://github.com/Acottle1031/Sales-Predictions-Project/blob/main/Scatter%20plot.png?raw=true)]
 
-This visual shows us the majority of our predictions and where they fall listed in $
+This visual shows us our predictions and in what range they fall.
 
-#### Visual 2 Title
+#### Sales by Item
+
+![sampleimage](https://github.com/Acottle1031/Sales-Predictions-Project/blob/main/items%20sold.png)
+
+This visual shows us the sales by item, showing us that Fruits & Veggies sell the most with Snack Foods coming in 2nd 
+
 
 
 
 
 ## Limitations 
 This model does make mistakes, our errors for sales predictions are about $1,092.30
+
+
 
 
 
