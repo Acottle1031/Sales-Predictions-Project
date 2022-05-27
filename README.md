@@ -24,8 +24,8 @@ This data set includes information regarding the sales of products across Big Ma
 ### Here are examples of how to embed images from your sub-folder
 
 
-#### Visual 1 Title
-![sample image]()
+#### Predictions using scatter plot
+![Scatter plot.png]
 
 > Sentence about visualization.
 
