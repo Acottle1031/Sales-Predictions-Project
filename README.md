@@ -27,13 +27,21 @@ This data set includes information regarding the sales of products across Big Ma
 This image shows us the sales by item, letting us know that our items that sell the most will be our Fruits & Vegetables, with Snack Foods coming in a very close 2nd.
 
 
-#### Sales over time
-![sampleimage]
+#### Sales Over Time
+![sampleimage](https://github.com/Acottle1031/Sales-Predictions-Project/blob/main/Sales%20over%20time.png)
 
-#### Predictions using scatter plot
+This image shows us the total sales over time for Big Mart. According to this, they're currently on the up curve, and could potentially maximize by furthering their marketing for other products they sell, such as Household or Frozen Food items since those are performing well but not quite to the level of Snack Foods or Fruits & Vegetables.
+
+## Modeling
+#### Linear Regression Predictions Using Scatter Plot
 ![sampleimage](https://github.com/Acottle1031/Sales-Predictions-Project/blob/main/Scatter%20plot.png?raw=true)]
 
-This visual shows us our predictions and in what range they fall.
+This visual shows us our predictions for our Linear Regression model against our original testing data. I'm including this as further evidence that the Regression Tree should be used here, as we see the model actually predicted negative values for sales.
+
+#### Regression Tree Predictions Using Scatter Plot
+![sampleimage](https://github.com/Acottle1031/Sales-Predictions-Project/blob/main/Regression%20tree%20scatter.png)
+
+This visual shows us our predictions for our Regression Tree model against our original testing data, we can see here comparatively all of the values are a lot more congruent showing us that our model is predicting values very close to our testing values, which is very good!
 
 
 
@@ -41,7 +49,11 @@ This visual shows us our predictions and in what range they fall.
 
 
 ## Limitations 
-This model does make mistakes, our errors for sales predictions are about $1,092.30
+This model does make mistakes, our average error for predictions is by about $1,057. This doesnt appear to be bad but I know very little about predicting sales for industries.
+
+## Contact info
+I'm extremely new to the coding world so any advice, tips, or recommended reading is greatly appreciated!
+I can be reached at a.cottle1031@gmail.com
 
 
 
