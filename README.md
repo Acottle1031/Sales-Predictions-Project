@@ -16,21 +16,25 @@ This data set includes information regarding the sales of products across Big Ma
 
 
 ## Methods
-- Here we choose to use a linear regression method to make predictions. A linear regression model is essentially a tool used to study the relationship between independent variables (in our case variables such as our item types) and our dependent variable (in this case, our sales).   We're going to use this model because, after testing against other available models, the linear regression model was the best fit as other available models showed they were more prone to errors, and larger errors at that.
+- Here we choose to use a Decision Tree model to make predictions. A Decision Tree model is essentially a tool used to make predictions by building series of nodes based on similar features, those nodes are then divided into smaller subsets depending on how deep the model is tuned, and a prediction is made based on the trimmed data.
 
 
-## Results
+## Analysis
+
+#### Sales By Item
+![sampleimage](https://github.com/Acottle1031/Sales-Predictions-Project/blob/main/items%20sold.png)
+
+This image shows us the sales by item, letting us know that our items that sell the most will be our Fruits & Vegetables, with Snack Foods coming in a very close 2nd.
+
+
+#### Sales over time
+![sampleimage]
 
 #### Predictions using scatter plot
 ![sampleimage](https://github.com/Acottle1031/Sales-Predictions-Project/blob/main/Scatter%20plot.png?raw=true)]
 
 This visual shows us our predictions and in what range they fall.
 
-#### Sales by Item
-
-![sampleimage](https://github.com/Acottle1031/Sales-Predictions-Project/blob/main/items%20sold.png)
-
-This visual shows us the sales by item, showing us that Fruits & Veggies sell the most with Snack Foods coming in 2nd 
 
 
 
