@@ -30,7 +30,7 @@ This image shows us the sales by item, letting us know that our items that sell 
 #### Sales Over Time
 ![sampleimage](https://github.com/Acottle1031/Sales-Predictions-Project/blob/main/Sales%20over%20time.png)
 
-This image shows us the total sales over time for Big Mart. According to this, they're currently on the up curve, and could potentially maximize by furthering their marketing for other products they sell, such as Household or Frozen Food items since those are performing well but not quite to the level of Snack Foods or Fruits & Vegetables.
+This image shows us the total sales Big Mart stores the years in which they were established. According to this, they're currently on the up curve for new stores, and could potentially maximize by furthering their marketing for other products they sell, such as Household or Frozen Food items since those are performing well but not quite to the level of Snack Foods or Fruits & Vegetables. However I'd say there's not quite enough info here to let us know what exactly they've done to cause the up curve.
 
 ## Modeling
 #### Linear Regression Predictions Using Scatter Plot
