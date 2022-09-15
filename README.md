@@ -52,7 +52,7 @@ This visual shows us our predictions for our Regression Tree model against our o
 This model does make mistakes, our average error for predictions is by about $1,057. This doesnt appear to be bad but I know very little about predicting sales for industries.
 
 ## Contact info
-I'm extremely new to the coding world so any advice, tips, or recommended reading is greatly appreciated!
+I'm new to the coding world so any advice, tips, or recommended reading is greatly appreciated!
 I can be reached at a.cottle1031@gmail.com
 
 
